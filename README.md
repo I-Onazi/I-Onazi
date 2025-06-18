@@ -44,6 +44,17 @@ A sleek web platform for discovering and sharing useful AI prompts across tools 
 - Creating visually pleasing and useful mobile apps  
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=I-Onazi&show_icons=true&theme=tokyonight" alt="Onazi's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Onazi&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=I-Onazi&theme=tokyonight" alt="GitHub Streak" height="180"/>
+</p>
+---
 
 ## 🤝 Let's Connect
 
