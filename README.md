@@ -8,25 +8,16 @@ Passionate about building secure and scalable backend systems, and currently exp
 ## 🧰 Tech Stack
 
 ### 👨‍💻 Languages  
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)  ![PHP](https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white)
 
 ### 🌐 Frontend  
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 ### 🔧 Backend & APIs  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![REST API](https://img.shields.io/badge/-REST_API-blue)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  ![REST API](https://img.shields.io/badge/-REST_API-blue)
 
 ### ⚙️ Dev Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -50,7 +41,7 @@ A sleek web platform for discovering and sharing useful AI prompts across tools 
 - Learning full-stack development with Next.js  
 - Building secure and scalable backend systems  
 - Exploring how cybersecurity principles apply to app architecture  
-- Creating open-source tools and personal projects  
+- Creating visually pleasing and usefull mobile apps  
 
 ---
 
