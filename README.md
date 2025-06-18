@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Onazi Isaac!
 
-**🚀 Cybersecurity Enthusiast & Backend Developer (Laravel & Node.js)**  
+**🚀 Full-Stack Web & Mobile Developer (Laravel, React Native, Next.js, Node.js)**  
 Passionate about building secure and scalable backend systems, and currently expanding into full-stack development with modern frameworks.
 
 ---
@@ -24,7 +24,7 @@ Passionate about building secure and scalable backend systems, and currently exp
 ## 🚀 Featured Projects
 
 ### 📱 **React Native Course Generator App**
-A mobile app that lets users create, manage, and track progress on custom learning courses.  
+Create and manage personalized learning courses with real-time progress tracking.  
 **Tech:** React Native, Expo, Firebase
 
 ### 🖼️ **Pinterest Clone**
@@ -41,7 +41,7 @@ A sleek web platform for discovering and sharing useful AI prompts across tools 
 - Learning full-stack development with Next.js  
 - Building secure and scalable backend systems  
 - Exploring how cybersecurity principles apply to app architecture  
-- Creating visually pleasing and usefull mobile apps  
+- Creating visually pleasing and useful mobile apps  
 
 ---
 
