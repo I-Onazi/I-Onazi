@@ -49,4 +49,4 @@ A sleek web platform for discovering and sharing useful AI prompts across tools 
 
 📧 **Email**: [isaaconazi.es@gmail.com](mailto:isaaconazi.es@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/isaaconazi](https://linkedin.com/in/isaaconazi)  
-🔍 Open to: collaborations, internships, and backend/full-stack roles
+🔍 Open to: collaborations, remote opportunities, internships, and backend/full-stack roles
