@@ -4,6 +4,8 @@
 Passionate about building secure and scalable backend systems, and currently expanding into full-stack development with modern frameworks.
 
 ---
+![Visitor Badge](https://komarev.com/ghpvc/?username=I-Onazi&style=flat-square&color=blue)
+
 
 ## 🧰 Tech Stack
 
