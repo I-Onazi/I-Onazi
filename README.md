@@ -54,7 +54,7 @@ A sleek web platform for discovering and sharing useful AI prompts across tools 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=I-Onazi&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=I-Onazi&theme=tokyonight" alt="GitHub Streak" height="180"/>
 </p>
 ---
 
