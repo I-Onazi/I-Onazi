@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Onazi Isaac!
 
 **🚀 Full-Stack Web & Mobile Developer (Laravel, React Native, Next.js, Node.js)**  
-Passionate about building secure and scalable backend systems. I build production-ready web and mobile apps.
-
+ I build fast, clean, production-ready apps from backend to UI.
+ 
 ---
 ![Visitor Badge](https://komarev.com/ghpvc/?username=I-Onazi&style=flat-square&color=blue)
 
